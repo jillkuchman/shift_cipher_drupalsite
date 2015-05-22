@@ -8,16 +8,16 @@ Drupal Module Development Assessment for Epicodus
 
 ###Description
 
-This site serves as the base site for the cipher module found here: https://github.com/jillkuchman/shift_cipher
+This site serves as the Drupal site for the cipher module found here: https://github.com/jillkuchman/shift_cipher
 
 ###Usernames and Passwords
-DATABASE>>
+DATABASE
 ```
 jill_cipher.sql
 username: cipheruser
 password: epicodus
 ```
-SITE ADMIN>>
+SITE ADMIN
 ```
 username: cipheruser
 password: epicodus
